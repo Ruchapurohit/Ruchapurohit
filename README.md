@@ -1,6 +1,18 @@
 # 👋 **Greetings!** I’m **Rucha Purohit**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ruchapurohit&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Ruchapurohit&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=Ruchapurohit&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=Ruchapurohit&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=Ruchapurohit&color=yellowgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=Ruchapurohit&color=orange)
+![Profile Views](https://komarev.com/ghpvc/?username=Ruchapurohit&color=red)
+![Profile Views](https://komarev.com/ghpvc/?username=Ruchapurohit&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Ruchapurohit&color=grey)
+![Profile Views](https://komarev.com/ghpvc/?username=Ruchapurohit&color=lightgrey)
+![Profile Views](https://komarev.com/ghpvc/?username=Ruchapurohit&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Ruchapurohit&color=ff69b4)
+
 
 
 
