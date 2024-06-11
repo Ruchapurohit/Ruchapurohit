@@ -1,4 +1,4 @@
-👋 Greetings! I’m Rucha Purohit
+# 👋 **Greetings!** I’m **Rucha Purohit**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ruchapurohit&color=blueviolet)
 
