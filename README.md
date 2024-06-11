@@ -1,7 +1,6 @@
 👋 Greetings! I’m Rucha Purohit
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ruchapurohit.visitor-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=Ruchapurohit&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Ruchapurohit&color=pink)
 
 
 
