@@ -11,6 +11,13 @@
     🌍 Always eager to learn new technologies and frameworks
     🎓 Focused on enhancing my skills and contributing to exciting projects
 
+🌐 Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rucha-purohit
+)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ruchapurohit
+)
+
 🌟 Interests
 
     🔍 Exploring innovative web development techniques
@@ -36,12 +43,6 @@
 
     I love solving puzzles and playing cricket, and I believe every coding problem is a puzzle waiting to be solved!
 
-🌐 Connect with Me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rucha-purohit
-)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ruchapurohit
-)
 
 ## 💻 Tech Stack:
 
